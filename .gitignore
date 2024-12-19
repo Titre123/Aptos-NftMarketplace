@@ -1,0 +1,6 @@
+.idea
+.devcontainer
+.env
+node_modules
+.aptos
+build
